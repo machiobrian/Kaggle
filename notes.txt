@@ -1,0 +1,34 @@
+Supervised learning -> Classification and Regression : threr is sampled outcome
+
+Classification -> dicerete results -> 1/0
+Regression -> results are continous (spread over a range due to various varying factors) 
+in nature
+
+This is an example of a binary classification problem in supervised learning 
+as we are classifying the outcome of the passengers as either one of two classes,
+ survived or did not survive the Titanic.
+
+ investigate how different passenger features like their 
+ age, 
+ gender, 
+ ticket class 
+ etc impact their survival outcome.
+
+ The evaluation metric of this competition is the percentage of 
+ passengers in the test set that are correctly predicted by our classifier
+
+
+1. EDA - Exploratory Data Analysis -> The process of visualizing and analysing data to 
+ extract insight:
+Pandas library is used
+
+2. Data Pre-Processing : 
+
+Missing values -> Drop or Fill
+Data transormation
+Feature Engineering : Domain expertise, industry knowledge and experience is required
+-> creating new feetures from existing ones to better understand the underlying problem
+Label encoding : having it as 1/0s
+
+3. Model Training: scikit learn
+

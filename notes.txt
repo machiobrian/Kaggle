@@ -32,3 +32,5 @@ Label encoding : having it as 1/0s
 
 3. Model Training: scikit learn
 
+Ordinate : arrange / re-arrange a series/ ordinary manner
+
